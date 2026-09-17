@@ -1,8 +1,8 @@
 {
   "benchmarks": {
-    "sorting_1000_items_ms": 1.136,
-    "graph_shortest_path_ms": 0.4107,
-    "tree_range_query_ms": 0.0675
+    "sorting_1000_items_ms": 1.153,
+    "graph_shortest_path_ms": 0.4149,
+    "tree_range_query_ms": 0.0681
   },
   "status": "passing",
   "last_audit_score": 98.6,
