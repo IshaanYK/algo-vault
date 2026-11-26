@@ -1,12 +1,12 @@
 {
   "benchmarks": {
-    "sorting_1000_items_ms": 2.0522,
-    "graph_shortest_path_ms": 0.452,
-    "tree_range_query_ms": 0.0383
+    "sorting_1000_items_ms": 2.0289,
+    "graph_shortest_path_ms": 0.4466,
+    "tree_range_query_ms": 0.0386
   },
   "status": "passing",
   "last_audit_score": 98.6,
-  "last_evaluated": "2026-11-26T03:57:55Z",
-  "evaluation_cycle": 5240,
-  "telemetry_signature": "16e17a845b5c"
+  "last_evaluated": "2026-11-26T04:00:55Z",
+  "evaluation_cycle": 5241,
+  "telemetry_signature": "a7ed9eec6ed2"
 }
